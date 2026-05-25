@@ -12,7 +12,7 @@ This repository hosts the **open, evolving documentation** of the AOSC framework
 
 The **authoritative, archived version** of this work — including the preprint, versioned materials, and timestamps — is maintained on the **Open Science Framework (OSF)**:
 
-🔗 [osf](https://osf.io/6sp9w/overview)/
+🔗 [osf](https://osf.io/6sp9w/overview)
 
 OSF serves as the stable scholarly record, while this GitHub repository supports ongoing development.
 
