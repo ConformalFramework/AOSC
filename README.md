@@ -52,7 +52,7 @@ This work is exploratory and theoretical in nature.
 - Conceptual framework: **Active development**
 - Formal structure: **In progress**
 - Preprint: **Available on OSF**
-- arXiv submission: **Planned / pending endorsement**
+  
 
 ---
 
